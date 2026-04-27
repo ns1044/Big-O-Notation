@@ -20,10 +20,11 @@ This idea could potentially both increase in-class engagement for students and r
 After importing all relevant functions from data_utils.py, I converted all the raw data I needed for my data analysis into a select few useable columns. Then, I wrangled my data further into ints so seaborn could use it to produce graphs, and I used my dataset to gather simple info for Figure 1, my histogram.
 
 ## Figure 1
-<img src="static/imgs/figure1-histogram.png>" alt="Figure 1" width="300"/>
+<img src="static/imgs/figure1-histogram.png" alt="Figure 1" width="300"/>
 Figure 1: This histogram shows how often students already take notes in class.
 
 **Histogram Descriptive Statistics:**
+
 *Mean: 5.16*
 *Median: 6*
 *Mode: 7*
