@@ -20,12 +20,26 @@ This idea could potentially both increase in-class engagement for students and r
 After importing all relevant functions from data_utils.py, I converted all the raw data I needed for my data analysis into a select few useable columns. Then, I wrangled my data further into ints so seaborn could use it to produce graphs, and I used my dataset to gather simple info for Figure 1, my histogram.
 
 ## Figure 1
-<img src="static/imgs/figure1-histogram.png" alt="Figure 1" width="300"/>
+<img src="static/imgs/figure1-histogram.png" alt="Figure 1" width="400"/>
+
 Figure 1: This histogram shows how often students already take notes in class.
 
 **Histogram Descriptive Statistics:**
 
 *Mean: 5.16*
+
 *Median: 6*
+
 *Mode: 7*
 
+
+## Figure 2
+<img src="static/imgs/figure2-understanding.png" alt="Figure 2" width="400"/>
+
+Figure 2: This graph compares note-taking habits with students' reported understanding of the material as a whole.
+
+
+## Figure 3
+<img src="static/imgs/figure3-ohvisits.png" alt="Figure 3" width="400"/>
+
+Figure 3: This graph compares note-taking habits with office hour visits.
