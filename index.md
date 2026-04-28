@@ -64,4 +64,4 @@ Ultimately, while note-taking is an important study strategy, the current data a
 
 
 
-This website was created by Nicholas Smith in COMP110 during the 2026 spring semester.
+*This website was created by Nicholas Smith in COMP110 during the 2026 spring semester.*
